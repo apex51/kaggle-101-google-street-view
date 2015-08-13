@@ -4,7 +4,7 @@
 
 **I will add a convolutional neural network solution soon.**
 
-The competition focuses the task of identifying characters from Google Street View images. It differs from traditional character recognition because the data set contains different character fonts and the background is not the same for all images. 
+[The competition](https://www.kaggle.com/c/street-view-getting-started-with-julia) focuses the task of identifying characters from Google Street View images. It differs from traditional character recognition because the data set contains different character fonts and the background is not the same for all images. 
 
 This is actually my first data science competition. I was a consultant at that time and was on a business trip. I learned and coded in the hotel room after work, at nights and during weekends. A very cool experience:)
 
